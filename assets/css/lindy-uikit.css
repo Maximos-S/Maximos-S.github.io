@@ -2698,6 +2698,8 @@ input:focus, textarea:focus, button:focus {
   padding-right: 100px;
 }
 
-.nqg-gif {
-  margin-top: 25px;
+.nqg-div {
+  width: 100%;
+  height: 20px;
+  margin-top: 5px;
 }
